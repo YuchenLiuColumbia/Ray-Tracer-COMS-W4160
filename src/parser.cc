@@ -138,8 +138,8 @@ void Parser::parse(
 			//so it's important for us to store them in queue
 			//everytime we begin to readin a new obj file
 			//we begin coding the vertice number from the last readin one
-			//Ê¹ÓÃÒ»¸öÊı×ÖÀ´±ê¼ÇÒ»¹²¶ÁÈëÁË¶àÉÙ¸ö¶¥µã
-			//Ã¿µ±¿ªÆôÒ»¸öĞÂµÄobjÎÄ¼ş£¬¾Í´ÓÉÏÒ»´ÎµÄÀÛ¼Æ¶¥µãÊı¿ªÊ¼ÍùÏÂ¼ÌĞø´æ´¢
+			//ä½¿ç”¨ä¸€ä¸ªæ•°å­—æ¥æ ‡è®°ä¸€å…±è¯»å…¥äº†å¤šå°‘ä¸ªé¡¶ç‚¹
+			//æ¯å½“å¼€å¯ä¸€ä¸ªæ–°çš„objæ–‡ä»¶ï¼Œå°±ä»ä¸Šä¸€æ¬¡çš„ç´¯è®¡é¡¶ç‚¹æ•°å¼€å§‹å¾€ä¸‹ç»§ç»­å­˜å‚¨
 			int current_ver = asoftnormals.size();
 
 			read_wavefront_file(objfile, tris, verts, asoftnormals);
