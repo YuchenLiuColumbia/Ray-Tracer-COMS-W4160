@@ -64,5 +64,5 @@ raytra.cc<br>
 
 # Sample input and output
 
-input: chess.scn<br>
+input: ./raytra chess.scn chess.exr 2 2 <br>
 output: chess.exr
