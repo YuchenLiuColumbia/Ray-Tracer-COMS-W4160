@@ -1,6 +1,12 @@
 # Introduction
 
-A ray tracing program, using the open source library OpenEXR (developed by IL&M), allow using specific input or existing OBJ files to create rendered image
+A ray tracing program, using the open source library OpenEXR (developed by IL&M), allow using specific input or existing OBJ files to create rendered image.<br>
+
+# Purpose
+
+This is the work-through class project of COMS W4160 Computer Graphics, taught by prof. Michael Reed. This is also my first project in computer science area, so as you can see from the code, it's not very organized, and did not follow the google code style. Also, I didn't use the default inherit logic. <br>
+
+Please don't copy the code for any reason.
 
 # Environment
 
